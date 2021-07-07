@@ -1,1 +1,49 @@
-# ahammadullah
+<!DOCTYPE html>
+<html>
+<head>
+<title>This is a website for practice</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="main">
+
+
+
+<div class="header">
+</div>
+
+
+
+
+
+
+<div class+"menu">
+</div>
+
+
+
+
+<div class="content-area">
+
+<div class="left-area">
+</div>
+
+<h1>My anme </h1>
+<div class="right-area">
+
+<img src="ahammadullah.jpg" width="300px"/>
+</div>
+
+
+
+</div>
+
+
+
+<div class="fouter">
+</div>
+
+
+</div>
+</body>
+</html>
